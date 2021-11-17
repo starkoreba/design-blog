@@ -1,0 +1,137 @@
+.base {
+  width: 600px;
+  margin: auto;
+  border-top: 50px #bbb6b0 solid;
+}
+.continfos {
+  background: #f4f4f4;
+  padding: 15px;
+  height: 210px;
+}
+.contimg {
+  width: 150px;
+  height: 200px;
+  overflow: hidden;
+  float: left;
+  border: 2px black solid;
+}
+.img {
+  width: 200px;
+}
+.catid {
+  margin-left: 20px;
+  float: left;
+  width: 150px;
+  overflow: hidden;
+  background: #eaeaea;
+}
+.id1 {
+  padding: 5px;
+  margin-bottom: 3px;
+  font-family: arial;
+  color: black;
+  text-transform: uppercase;
+  font-size: 9px;
+  text-indent: 5px;
+  background: #d8c4c4;
+}
+.id2 {
+  padding: 5px;
+  margin-bottom: 3px;
+  font-family: arial;
+  color: black;
+  text-transform: uppercase;
+  font-size: 9px;
+  text-indent: 5px;
+  background: #c4c4d8;
+}
+.contdes {
+  width: 200px;
+  padding: 10px;
+  float: left;
+  margin-left: 20px;
+  background: #d8c4c4;
+}
+.textedes {
+  font-family: arial;
+  font-size: 11px;
+  line-height: 12px;
+  color: black;
+  text-align: justify;
+  height: 190px;
+  overflow: hidden;
+}
+.contbio {
+  overflow: hidden;
+  height: 400px;
+  background: #9696ba;
+  border-top: #9990a0 10px solid;
+}
+.titrebio {
+  background: #9696ba;
+  padding: 25px;
+  font-family: arial;
+  text-transform: uppercase;
+  font-size: 20px;
+  color: #f4f4f4;
+  text-align: center;
+  letter-spacing: 7px;
+}
+.titrebio span {
+  font-weight: normal;
+  letter-spacing: 3px;
+  font-size: 12px;
+  font-variant: small-caps;
+}
+.contxt {
+  padding: 20px;
+  height: 255px;
+  background: #f4f4f4;
+  border-left: 20px #9696ba solid;
+  border-right: 20px #9696ba solid;
+}
+.textebio {
+  font-family: arial;
+  text-align: justify;
+  font-size: 11px;
+  line-height: 12px;
+  color: black;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  columns: 2;
+  -webkit-column-gap: 20px;
+  -moz-column-gap: 20px;
+  column-gap: 20px;
+}
+.contlien {
+  background: #f4f4f4;
+  height: 100px;
+  overflow: hidden;
+  padding: 20px;
+  border-top: #9990a0 10px solid;
+}
+.contimgl {
+  width: 200px;
+  height: 100px;
+  background: red;
+  float: right;
+  overflow: hidden;
+}
+.imgl {
+  width: 200px;
+}
+.contxtlien {
+  background: #c4c4d8;
+  padding: 10px;
+  width: 320px;
+  height: 80px;
+  float: left;
+  overflow: hidden;
+}
+.textelien {
+  font-family: arial;
+  text-align: justify;
+  font-size: 11px;
+  line-height: 12px;
+  color: black;
+}
